@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on EDAs using Python
 - 📫 How to reach me on etheln700@gmail.com
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a terrific bathroom singer
 
 <!---
